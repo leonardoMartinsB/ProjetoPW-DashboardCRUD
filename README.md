@@ -10,7 +10,7 @@
 
 Este projeto é um **Dashboard de Gerenciamento** completo, desenvolvido para os 3º e 4º Bimestres de Programação Web (PW). Ele implementa um sistema **CRUD** (Create, Read, Update, Delete) robusto e multi-entidades, utilizando **PHP** e **MySQL**.
 
-O sistema simula o gerenciamento de uma plataforma, provavelmente um "Garage Club" ou similar, com módulos para gerenciar **Motos** e **Clientes**, além de um painel de administração (`admin`). Este projeto demonstra a capacidade de construir uma aplicação web **full-stack** com funcionalidades de autenticação, navegação e manipulação complexa de dados.
+O sistema simula o gerenciamento de uma plataforma "Garage Club" com módulos para gerenciar **Motos** e **Clientes**, além de um painel de administração (`admin`). Este projeto demonstra a capacidade de construir uma aplicação web **full-stack** com funcionalidades de autenticação, navegação e manipulação complexa de dados.
 
 🔹 Principais destaques:
 
